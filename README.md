@@ -12,8 +12,6 @@ El sistema realiza operaciones CRUD sobre el arreglo de productos:
 
 *   **Agregar Producto:** Registra un nuevo producto con Código, Nombre, Precio e Ingredientes.
 *   **Listar Productos:** Muestra todos los productos existentes en el inventario.
-*   **Editar Producto:** Permite modificar los datos de un producto existente por su código.
-*   **Eliminar Producto:** Borra un producto del arreglo.
 *   **Reportes:** Genera reportes filtrando por precio y búsqueda por código.
 
 ### 🛠️ Tecnologías Utilizadas
